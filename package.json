@@ -1,0 +1,20 @@
+{
+  "name": "RxJS-Tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rde-kwaa/RxJS-Tutorial.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode-development"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.4",
+    "ts-loader": "^6.2.1",
+    "typescript": "2.9.2",
+    "webpack": "^4.41.5",
+    "webpack-dev-server": "^3.10.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
